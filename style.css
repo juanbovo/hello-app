@@ -3,4 +3,5 @@ body {
 }
 button:hover{
     background-color: white;
+    text-align: center;
 }
